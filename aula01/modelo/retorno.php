@@ -24,7 +24,7 @@ else{
         );
         break;
         case '3' : $dados = array(
-            "tipo" => 'peixe.jpg',
+            "tipo" => 'passaro.jpg',
             "mensagem" => 'Olá. '$NOME.', sabemos que o seu animal preferido é o peixe'
         );
         break;
